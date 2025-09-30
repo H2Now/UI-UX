@@ -1,4 +1,16 @@
-[ Authorization ]
+[ Landing Page ]
+
+Water - https://unsplash.com/photos/close-up-photography-of-droplets-eMX1aIAp9Nw
+
+Way - https://unsplash.com/photos/a-wooden-path-in-the-middle-of-a-grassy-field-_zMgD1V94DY
+
+Mountains - https://unsplash.com/photos/landscape-photography-of-mountains-r8AFUpRp0J0
+
+Sea - https://unsplash.com/photos/blue-and-white-water-splash-yqIFxfERlpU
+
+
+
+[ Authorization Page ]
 
 Checkmark - https://www.flaticon.com/free-icon/check_3388530?term=tick&page=1&position=8&origin=search&related_id=3388530
 
