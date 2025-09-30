@@ -1,0 +1,39 @@
+[ Authorization ]
+
+Checkmark - https://www.flaticon.com/free-icon/check_3388530?term=tick&page=1&position=8&origin=search&related_id=3388530
+
+
+
+[ Home Page ]
+
+Account - https://www.flaticon.com/free-icon/user_17847648?term=account&page=1&position=18&origin=search&related_id=17847648
+
+Bottle - https://www.flaticon.com/free-icon/water-bottle_4523387?term=bottle&related_id=4523387
+
+Settings - https://www.flaticon.com/free-icon/setting-lines_70115?term=settings&page=1&position=20&origin=search&related_id=70115
+
+Add - https://www.flaticon.com/free-icon/add_1237946?term=add&page=1&position=3&origin=search&related_id=1237946
+
+Password - https://www.flaticon.com/free-icon/padlock_2889676?term=password&page=1&position=2&origin=search&related_id=2889676
+
+Log Out - https://www.flaticon.com/free-icon/logout_3889524?term=logout&page=1&position=2&origin=search&related_id=3889524
+
+Bin - https://www.flaticon.com/free-icon/bin_484662?term=bin&page=1&position=2&origin=search&related_id=484662
+
+Back - https://www.flaticon.com/free-icon/back-button_93634?term=back&page=1&position=5&origin=search&related_id=93634
+
+Dropdown - https://www.flaticon.com/free-icon/down_2722987?term=dropdown&page=1&position=5&origin=search&related_id=2722987
+
+Camera - https://www.flaticon.com/free-icon/camera_2956744?term=camera&page=1&position=7&origin=search&related_id=2956744
+
+
+
+[ Bottle Page ]
+
+Graph - https://www.flaticon.com/free-icon/trend_6797554?term=graph&page=1&position=13&origin=search&related_id=6797554
+
+Glass - https://www.flaticon.com/free-icon/glass_175791?term=water+glass&page=1&position=81&origin=search&related_id=175791
+
+Edit - https://www.flaticon.com/free-icon/edit_1159633?term=edit&page=1&position=1&origin=search&related_id=1159633
+
+Reset - https://www.flaticon.com/free-icon/recycle_1250694?term=reset&page=1&position=18&origin=search&related_id=1250694
