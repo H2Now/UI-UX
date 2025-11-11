@@ -57,3 +57,5 @@ Glass - https://www.flaticon.com/free-icon/glass_175791?term=water+glass&page=1&
 Edit - https://www.flaticon.com/free-icon/edit_1159633?term=edit&page=1&position=1&origin=search&related_id=1159633
 
 Reset - https://www.flaticon.com/free-icon/recycle_1250694?term=reset&page=1&position=18&origin=search&related_id=1250694
+
+Magnifier - https://www.flaticon.com/free-icon/magnifying-glass_49116?term=magnifier&page=1&position=3&origin=search&related_id=49116
