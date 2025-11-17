@@ -1,21 +1,25 @@
-# H2Now UI/UX Repository
+# H2Now UX/UI Repository
 
-📂 This repository contains the design prototype for the **H2Now** project, aimed at delivering an intuitive and user-centered experience. It includes the prototype file itself and the folder containing icons used for this prototype including .txt file with references to sources of these icons.
-
----
-
-## ✨ Pages
-
-- 🌐 **Landing Page**: Main page introducing our product (WIP)
-- 🔐 **Authorization Page**: Users must log in or create a new account in order to use the application
-- 🏠 **Home Page**: Authorized users can view their bottles and manage both their account settings and application preferences
-- 🥤 **Bottle Page**: Each bottle's dedicated page displaying it's data and statistics to the user
+📂 This repository contains the UX/UI prototypes and documentation for the **H2Now** project, aimed at delivering and ensuring an intuitive and user-centered experience. It includes the application's design prototype along with essential documentation detailing user experience, analysis, and feature prioritization.
 
 ---
 
-## 📁 Prototype Contents
+## ✨ Contents
+
+- 🎨 **Design Prototype**: An application prototype created in Figma, illustrating the app's user interface. (Note: This is a conceptual design. The final application may differ)
+- 🗂️ **Resources**: Assets used for application's design prototype
+- 🎆 **Logo**: Application's logo professionally designed using Canva
+- 👭 **User Personas**: Sample personas developed to better understand the target audience and their specific needs
+- 🧪 **UTSE Analysis**: Comprehensive analysis identifying users, tasks, system requirements, and environmental factors
+- 📝 **MoSCoW Analysis**: Prioritization of application features into "Must Have," "Should Have," "Could Have," and "Won’t Have" categories
+- ♿️ **Universal Design Principles**: Implementation of accessibility and inclusivity guidelines to accommodate diverse user groups
+- 📓 **Test Plan**: Structured test plan with sample cases to ensure application quality and functionality
+
+---
+
+## 📁 Design Prototype Contents
 1. **Landing Page**
-   - The landing page introduces visitors to our product, showcasing the bottle's capabilities, the companion application for tracking daily intake, and our overall mission and goals (WIP)
+   - The landing page introduces visitors to our product, showcasing the bottle's capabilities, the companion application for tracking daily intake, and our overall mission and goals
 
 2. **Authorization Page**
    - The authorization page provides secure access to the application, requiring existing users to log in and new users to create new account before proceeding
